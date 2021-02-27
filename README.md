@@ -25,12 +25,12 @@ This layer contains all application logic. It is dependent on the domain layer, 
 This layer is a single page application based on HTML, CSS, Bootsrap, Javascript, jQuery and ASP.NET Core. This layer depends on both the Application layer.
 
 
-##Build and run
+##  Build and run
 
-###Visual Studio
+###  Visual Studio
 Visual Studio 2019 If you are using Visual Studio 2019 on a Microsoft environment , open the solution file in the source directory, (Battleships.sln) and run the build. The nuget packages (NUnit,... ext) should auto restore.
 
-###Visual Studio Code
+###  Visual Studio Code
 It is a simple .NET Core app therefore all you have to do to run it locally is to run build
 ```bash
 > dotnet build
