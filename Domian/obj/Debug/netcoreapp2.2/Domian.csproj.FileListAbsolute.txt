@@ -1,0 +1,7 @@
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\bin\Debug\netcoreapp2.2\Domian.deps.json
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\bin\Debug\netcoreapp2.2\Domian.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\bin\Debug\netcoreapp2.2\Domian.pdb
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\obj\Debug\netcoreapp2.2\Domian.AssemblyInfoInputs.cache
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\obj\Debug\netcoreapp2.2\Domian.AssemblyInfo.cs
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\obj\Debug\netcoreapp2.2\Domian.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domian\obj\Debug\netcoreapp2.2\Domian.pdb

@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Battleships</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Page Content -->
+    <div class="container" style="display: none" data-bind="visible: true">
+        <img src="Images/BATTLESHIP.png" class="img-fluid">
+        <div class="row mt-3">
+            <div class="col-md-8 text-center">
+                <div data-bind="template: { name: 'bsTable', data: $data }"></div>
+            </div>
+
+            <div class="col-md-4 text-center">
+                <div class="alert alert-success" role="alert" data-bind="visible: hasWon">
+                    <h4 class="alert-heading">Well done!</h4>
+                    <p>Aww yeah, you successfully won the battle.</p>
+                </div>
+                <div class="row">
+                    <ul class="list-group">
+                        <li class="list-group-item">Try These Slots!!!</li>
+                        <li class="list-group-item list-group-item-danger">Yea, You Destroyed It!!!</li>
+                        <li class="list-group-item list-group-item-dark">Sigh, You Missed It!!!</li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <button class="mt-5 btn btn-primary" data-bind="click: restartBoard">Resart The Battle  </button>
+                </div>
+                </div>
+            </div>
+    </div>
+
+    <script id="bsTable" type="text/html">
+        <table class="table-bordered">
+            <tr>
+                <td></td>
+                <!-- ko foreach: header -->
+                <th><span data-bind="text: $data"></span></th>
+                <!-- /ko -->
+            </tr>
+            <!-- ko foreach: board -->
+            <tr>
+                <th data-bind="text: $index() + 1"></th>
+                <!-- ko foreach: $data -->
+                <td data-bind="class: $data, click: function(){ $root.cellClick($index(), $parentContext.$index()); }"></td>
+                <!-- /ko-->
+            </tr>
+            <!-- /ko -->
+        </table>
+    </script>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <script src="index.js"></script>
+
+    <style>
+
+        table.table-bordered {
+            table-layout: fixed;
+        }
+
+            table.table-bordered tr th {
+                background: #eee;
+            }
+
+            table.table-bordered tr td,
+            table.table-bordered tr th,
+            .legend-box {
+                width: 2em;
+                max-width: 2em;
+                height: 2em;
+                max-height: 2em;
+                cursor: pointer;
+            }
+
+        .legend-box {
+            border: 1px solid #000;
+        }
+
+            table.table-bordered td.e,
+            .legend-box.e {
+                color: white;
+                background: white;
+            }
+
+            table.table-bordered td.d,
+            .legend-box.d {
+                color: #f5c6cb;
+                background: #f5c6cb;
+            }
+
+            table.table-bordered td.t,
+            .legend-box.t {
+                color: #c6c8ca;
+                background: #c6c8ca;
+                
+            }
+    </style>
+
+</body>
+
+</html>

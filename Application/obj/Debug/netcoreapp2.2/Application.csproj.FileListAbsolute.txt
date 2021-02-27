@@ -1,0 +1,11 @@
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\bin\Debug\netcoreapp2.2\Application.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\bin\Debug\netcoreapp2.2\Application.pdb
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\bin\Debug\netcoreapp2.2\Domian.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\bin\Debug\netcoreapp2.2\Domian.pdb
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\obj\Debug\netcoreapp2.2\Application.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Application\obj\Debug\netcoreapp2.2\Application.pdb

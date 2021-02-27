@@ -1,0 +1,17 @@
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\obj\Debug\netcoreapp2.2\Domain.UnitTests.csprojAssemblyReference.cache
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\obj\Debug\netcoreapp2.2\Domain.UnitTests.AssemblyInfoInputs.cache
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\obj\Debug\netcoreapp2.2\Domain.UnitTests.AssemblyInfo.cs
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domain.UnitTests.deps.json
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domain.UnitTests.runtimeconfig.json
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domain.UnitTests.runtimeconfig.dev.json
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domain.UnitTests.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domain.UnitTests.pdb
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domian.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\bin\Debug\netcoreapp2.2\Domian.pdb
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\obj\Debug\netcoreapp2.2\Domain.UnitTests.csproj.CopyComplete
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\obj\Debug\netcoreapp2.2\Domain.UnitTests.dll
+E:\Projects\VoiceIQ\CleanArchitecture\Battleships\Domain.UnitTests\obj\Debug\netcoreapp2.2\Domain.UnitTests.pdb
